@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MyOrbit.Models\MyOrbit.Models.csproj" />
+    <ProjectReference Include="..\MyOrbit.Dto\MyOrbit.Dto.csproj" />
   </ItemGroup>
 
   <ItemGroup>

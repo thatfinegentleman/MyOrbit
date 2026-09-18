@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="MyOrbit.Client/MyOrbit.Client.csproj" />
+  <Project Path="MyOrbit.Dto/MyOrbit.Dto.csproj" />
   <Project Path="MyOrbit.Functions/MyOrbit.Functions.csproj" />
   <Project Path="MyOrbit.Models/MyOrbit.Models.csproj" />
   <Project Path="MyOrbit.Services/MyOrbit.Services.csproj" />

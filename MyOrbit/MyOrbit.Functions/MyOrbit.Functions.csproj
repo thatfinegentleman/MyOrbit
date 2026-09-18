@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MyOrbit.Dto\MyOrbit.Dto.csproj" />
     <ProjectReference Include="..\MyOrbit.Services\MyOrbit.Services.csproj" />
   </ItemGroup>
 
